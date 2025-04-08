@@ -1,5 +1,3 @@
-# js-moderno-http-app
-
 Recuerden:
 
 1. Descargar proyecto
